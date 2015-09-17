@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1429874011 source:c:\users\suraj\dropbox\c programs\genetic\main.c
+	"main.h"
+
+1429781805 source:c:\users\suraj\dropbox\c programs\genetic\sum.c
+
+1429873902 c:\users\suraj\dropbox\c programs\genetic\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+
+1429873918 source:c:\users\suraj\dropbox\c programs\genetic\pathfinding.c
+
